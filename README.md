@@ -14,5 +14,5 @@ yarn global add @vue/cli @vue/cli-service-global
 # Start
 
 ```
-vue serve
+npm run serve
 ```
